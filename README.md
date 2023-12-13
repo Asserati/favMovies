@@ -31,6 +31,6 @@ There will be two servers running, one for client another for api.
 
 - go to /favMovies-main/apps/api and in the terminal enter "npm run dev"
 
-The working and good looking site should be found on http://localhost:5173/
+If everything goes well - the working and good looking site should be found on http://localhost:5173/
 
 Thank you, for your review.
