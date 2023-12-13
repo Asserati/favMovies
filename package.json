@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "turbo": "^1.10.14"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "start": "node apps/api/dist/main"
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "dependencies": {
+    "@nestjs/platform-express": "^10.2.5",
+    "axios": "^1.5.0"
+  }
+}
