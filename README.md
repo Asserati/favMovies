@@ -3,7 +3,7 @@ Glad that you made it here :)
 
 To start the project:
 
-- open the directory ./favMovies-main
+- download and open the directory ./favMovies-main
   
 - run "npm install"
   
